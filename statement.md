@@ -1,4 +1,4 @@
-# Project Statement
+# Project 
 
 ## Problem Statement  
 In today’s fast-paced world, many individuals are unaware of their personal health risk levels due to lifestyle factors, body composition, and basic physiological parameters. Traditional health risk assessment requires clinical visits, lab tests, or complex questionnaires, which are time-consuming and often inaccessible. There is a clear need for an instant, intuitive, and educational tool that can provide immediate feedback on general health risk using only basic inputs such as height, weight, age, gender, and activity level — empowering users to make informed lifestyle decisions early.
